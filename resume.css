@@ -1,0 +1,30 @@
+h1{ 
+    color: yellow;
+    background-color: brown;
+
+}
+ul{
+    color: chartreuse;
+    background-color: brown;
+}
+li{
+    color: yellow;
+    background-color: brown;
+}
+p{
+    color: rgb(255, 255, 255);
+    background-color: rgb(96, 18, 18);
+}
+ol{
+    color: red;
+    background-color: black;
+    
+}
+
+h2{
+    color: rgb(206, 206, 215);
+    background-color: brown;
+}
+br{
+    color:pink;
+}
